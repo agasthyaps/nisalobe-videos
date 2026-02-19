@@ -1,0 +1,15 @@
+---
+title: "3 Ways Project-Based Learning Can Address Equity"
+date: 2021-03-05
+source: https://www.edutopia.org/video/3-ways-project-based-learning-can-address-equity
+---
+
+# 3 Ways Project-Based Learning Can Address Equity
+
+> Education Trust president John King describes how working collaboratively in teams—on purposeful, rigorous projects—can support traditionally underserved learners in the classroom and beyond.
+
+**Source:** [https://www.edutopia.org/video/3-ways-project-based-learning-can-address-equity](https://www.edutopia.org/video/3-ways-project-based-learning-can-address-equity)
+
+## Transcript
+
+John: Sometimes folks look at low-income students, students of color, English learners, students with disabilities, and say to themselves, because they are behind in some way academically, “I’m going to make a very drill-focused, sort of minimalist curriculum.” And that is exactly backwards. The way that we’re going to accelerate the students who most need help and support is through rigorous, engaging learning experiences, like project-based learning, when it’s done well. Oftentimes, students will say, when they’re working on something, “Why am I doing this? What is the benefit of this? What is this all for?” And what project-based learning does is it creates this common understanding across a classroom of what the goal is, what the purpose is of the work they’re engaged in. And that extra motivation can help students deepen their academic learning. When you talk with employers about the skills that they need students to have, they will talk about things like working effectively in a team, designing a work plan, and managing their work over time. They’ll talk about being able to approach a problem from different perspectives, based on their work with their colleagues. Those are all skills that are developed through rigorous, high-quality project-based learning. So if we are thoughtful about the design, we can actually build skills that will serve students well throughout their lives. One of the things that project-based learning allows students to do is to practice the skills that democracy requires, right? If you’re working on a project in a team, you’ve got to balance your own wants and needs with your classmates’ wants and needs. You’ve got to make decisions together, jointly. You’ve got to look at a question and think, not only, how do I think about this question, but how does my classmate think about that? What experiences have they had that may be different from my own, that inform how they look at this problem or issue or idea? Those are all the skills that we want students to bring to bear as citizens. When we’re thinking about solving a huge challenge like climate change, those challenges require skills that project-based learning cultivates, and if we want a healthy democracy long-term, we have to invest in those skills. That will not only create more equitable academic outcomes, it will ensure that all students, across lines of race and class, are prepared to fully participate in our democracy.

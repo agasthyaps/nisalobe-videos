@@ -1,0 +1,27 @@
+---
+title: "3 Tips for Better Peer Feedback in Elementary Classrooms"
+date: 2024-09-13
+source: https://www.edutopia.org/video/3-tips-for-better-peer-feedback-in-elementary-classrooms
+youtube: https://www.youtube.com/watch?v=u9175wnT2ck
+---
+
+# 3 Tips for Better Peer Feedback in Elementary Classrooms
+
+> When students share ideas and improve on their work with classmates, they begin to take ownership of their learning in new ways.
+
+**Source:** [https://www.edutopia.org/video/3-tips-for-better-peer-feedback-in-elementary-classrooms](https://www.edutopia.org/video/3-tips-for-better-peer-feedback-in-elementary-classrooms)
+**YouTube:** [https://www.youtube.com/watch?v=u9175wnT2ck](https://www.youtube.com/watch?v=u9175wnT2ck)
+
+## Article
+
+Learning how to exchange feedback with classmates can be intimidating—especially for younger learners who may be new to peer review. But creating space for students to give and receive better peer feedback from one another provides them opportunities to have their voice be heard and to listen to one another, resulting in a deeper level of classroom collaboration and engagement with content—and ultimately higher-quality student work. With the right scaffolding, teachers can help build autonomy and communication skills in a variety of ways.
+
+To start with, even the best critique activities will only succeed in a safe and mistake-friendly classroom community that nurtures gentle reflection instead of correction, where students feel comfortable taking risks and being vulnerable as they share their work. When the stage is set for constructive discussions that focus on comments that are clear, positive, and encouraging, students can give and receive feedback more comfortably. Using simple structures to give students guardrails and direct them toward more effective communication can be implemented from the beginning.
+
+Frameworks that allow students to share ideas in a kind and respectful manner can be a great place to begin, such as protocols like “ Glow and Grow ” or TAG feedback , or even just simple sentence starters. The more tools learners are given to exchange their notes in supportive ways, the more confident they will grow in expressing their thoughts. As students get more comfortable swapping feedback with neighbors and friends, mixing in practices that get students moving around the room may help sharpen skills and improve their work.
+
+Asking students to rotate around to different desks or matching up partners who might not normally interact makes for more varied sources of feedback and can allow students to develop collaboration skills in new ways. Even the youngest of students begin to take ownership of their learning when they feel that their thoughts, opinions, and ideas have value. For many more resources, read Paige Tutt’s article for Edutopia, “ Teaching Kids to Give and Receive Quality Peer Feedback .”
+
+## Transcript
+
+Narrator : When students are given opportunities early on to share and reflect on their work with classmates, they begin to take ownership of their learning in new ways, leading to deeper levels of collaboration and engagement with content. Here are three ideas to help build a culture of constructive peer feedback for young learners in your elementary classroom. Peer feedback activities will only work in a safe and mistake-friendly classroom community with a strong culture of revision. Start by modeling gentle ways to give and receive positive and constructive critique, especially with a class who may be new to peer review. This builds trust and helps students with their willingness to take risks and share their thoughts. Encourage reflection, not correction, when you open up thoughtful discussions about peer review. Remind them that the best feedback is kind, specific, and helpful. Consider trying an I-like-I-wish-I-wonder framework as a way to help focus students’ notes on deeper concepts rather than specific mistakes. Using simple protocols can make students more comfortable with giving and receiving feedback. Structure gives students guidelines and a place to start along with explicit ways to make sharing ideas constructive. Try an activity like tag critique, where students swap work with a classmate and spend three minutes with a worksheet: “T”—tell something you like; “A”—ask a question; “G”—give a suggestion. You can also provide rubrics, easy prompts like glows and grows, or a praise and a push, or sentence starters that help students formulate and share ideas more effectively. Setting up guardrails that frame feedback in a way that is clear, positive, and encouraging sets the stage for students to present their thoughts and improve their work with ease. Finding ways for students to actively engage with different classmates around the room can bring them out of their comfort zone, build their collaboration skills, and let them gather feedback from more than one source. Have students rotate desks or stations for a set period of time and leave reflections on work as they go. Or students can sign up on the board for a peer review once they’ve finished an assignment, allowing for a classmate at the same point in the lesson to come find them so they can review their work together. When students are given more agency over the peer critique process, they grow more confident in exchanging feedback with different classmates, and they begin to see that their ideas have value.

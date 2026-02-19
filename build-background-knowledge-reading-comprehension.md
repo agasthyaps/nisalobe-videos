@@ -1,0 +1,25 @@
+---
+title: "4 Activities to Build Background Knowledge"
+date: 2024-07-24
+source: https://www.edutopia.org/video/build-background-knowledge-reading-comprehension
+youtube: https://www.youtube.com/watch?v=jmcJmjTTZrI
+---
+
+# 4 Activities to Build Background Knowledge
+
+> When students build their understanding of new topics on knowledge they already have, they are able to draw inferences and make connections that can boost reading comprehension and performance.
+
+**Source:** [https://www.edutopia.org/video/build-background-knowledge-reading-comprehension](https://www.edutopia.org/video/build-background-knowledge-reading-comprehension)
+**YouTube:** [https://www.youtube.com/watch?v=jmcJmjTTZrI](https://www.youtube.com/watch?v=jmcJmjTTZrI)
+
+## Article
+
+Robust and dynamic reading instruction not only focuses on the main idea of stand-alone texts but also allows for the development of a deep reservoir of vocabulary and thematic knowledge that becomes the foundation for meaningful reading comprehension. This establishes a student’s ability to connect ideas across literature, compound learning by linking subjects, and improve factual recall. Through activities that guide students to explicitly look for connections, similarities, and differences between ideas and details, teachers can help their classes build a framework for tapping into prior knowledge to help them understand new topics.
+
+To learn more about the research cited in the video, check out the resources below. James S. Kim et al.’s research on how topic knowledge improves reading comprehension in elementary students (2023) Xue Wang, Richard E.
+
+Mayer, Pu Zhou, and Lin Lin’s study on the benefits of interactive graphic organizers and how visual organizers can lead to deeper learning outcomes (2021) To get more information about hexagonal thinking, an activity developed by educator Betsy Potash, look up Sarah Gonser’s article for Edutopia titled “ Using ‘Hexagonal Thinking’ to Deepen Classroom Conversations .” To dig more deeply on the book study resource tables activity, read social studies teacher Tim Smyth’s “ Building Students’ Background Knowledge With Station Rotation .” For even more activities that build background knowledge in the classroom, read Youki Terada’s “ How to Move From the ‘Main Idea’ to ‘Background Knowledge .’”
+
+## Transcript
+
+Narrator : Successful reading instruction isn’t just about getting students to identify the main idea or cite evidence from isolated texts. It’s also about building a rich foundation of background knowledge. That’s because readers need to make inferences, drawing connections to what they already know to understand the text. In a groundbreaking recent study, elementary students who read about dinosaurs built a deeper understanding of how scientists collect data to study past events. Seeing how ideas were connected and can reinforce each other boosted their reading comprehension scores by 18 percent, compared to their peers. But how can you build more background knowledge in your classroom? Literacy experts recommend a sustained, thoughtfully sequenced, content-oriented approach, one that makes connections throughout the school year. Find through lines in your curriculum. If students will read about Roman emperors in the winter, prepare them with related lessons on civilization building, governance, and codes of law in the fall. Here are four activities to help you get started. One engaging prelesson activity uses cut-out hexagons, each covering a single term or concept to explore novel insights. Working in small groups, students write core ideas on each hexagon and then link related ones together. If students are learning about animal habitats, for example, they can arrange animals by biome and investigate similarities and differences. Vocabulary games can also help students become familiar with keywords they may encounter. Try a multimodal approach. Use photos to introduce new words, or have students draw the words. Keep the dictionaries away until students have had a chance to work out the definitions themselves. Try setting up tables with engaging materials, such as comics, photo collections, poetry, introductory videos, and news articles, to introduce students to challenging topics as they rotate through. These give students multiple entry points while building familiarity with key events and people. Using graphic organizers like anchor charts and concept maps encourages students to scope out the conceptual terrain, helping them spot the difference between main ideas and support details or see how big ideas relate to each other. When students explicitly look for connections between topics and build new knowledge upon prior understanding, that scaffolding can improve factual recall and comprehension. By gathering lots of information prior to reading about a topic, students fill a deep reservoir of vocabulary and thematic knowledge, enhancing their ability to understand future texts that touch upon the same concepts.

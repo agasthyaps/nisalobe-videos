@@ -1,0 +1,31 @@
+---
+title: "3 Key Student Mindsets to Cultivate in the Classroom"
+date: 2024-10-04
+source: https://www.edutopia.org/video/student-mindsets-to-cultivate-in-the-classroom
+youtube: https://www.youtube.com/watch?v=A9qyaXDfFDY
+---
+
+# 3 Key Student Mindsets to Cultivate in the Classroom
+
+> By fostering these fundamental mindsets, teachers can enhance resilience, encourage academic risk-taking, and improve stress management.
+
+**Source:** [https://www.edutopia.org/video/student-mindsets-to-cultivate-in-the-classroom](https://www.edutopia.org/video/student-mindsets-to-cultivate-in-the-classroom)
+**YouTube:** [https://www.youtube.com/watch?v=A9qyaXDfFDY](https://www.youtube.com/watch?v=A9qyaXDfFDY)
+
+## Article
+
+Teachers can design the most impeccable lesson plan, but if their students aren’t in the right headspace to learn, all that work can be for naught. So it’s worth it to invest time to figure out the right student mindsets to cultivate—the groundwork can be laid for a more engaged class, better classroom dynamics, and optimized instructional time. One way to start is by framing belonging as a collaborative effort.
+
+While establishing an inclusive community where students feel like they fit in and have agency is crucial for effective learning, it’s not all up to the teacher—students must collaborate in building the classroom culture. Cocreating classroom agreements with students can strengthen their commitment and buy-in. And employing inclusive language and positioning oneself as a “ warm demander ”—someone who combines high academic expectations with support and kindness—further reinforces this sense of shared purpose and connection.
+
+Setting up a mistake-friendly environment and encouraging students to have a high tolerance for academic risk is also vital. Protecting learners from failure does more harm than good—research shows that exposure to challenges and the experience of productive struggle foster growth. A 2021 study revealed that prioritizing constructive feedback over grades significantly boosted student performance in subsequent tasks.
+
+In a classroom like this, mistakes are not only destigmatized but seen as valuable learning opportunities. Lastly, while a certain level of stress is inevitable (and beneficial for development), learning effective management techniques is essential for students. By integrating practices such as short breaks, deep breathing, and meditation, teachers can help mitigate stress and model strategies for regulation.
+
+Teaching students how to assess their challenges realistically with activities like “ The Size of the Problem ” and encouraging them to distinguish between what is within their control and what isn’t enables them to approach problems with a more balanced perspective. By helping their students embrace these ways of thinking, educators can cultivate resilient and inquisitive learners, ultimately transforming their classroom for the better. To learn more about the research cited in the video, check out the resources below.
+
+Tanmay Sinha and Manu Kapur’s comprehensive meta-analysis of the evidence for productive failure (2021) Caroline E. Kuepper-Tetzel and Paul L. Gardner’s study on the effects of withholding grades (2021) Find more evidence-based ideas for student mindsets to cultivate in Stephen Merrill’s article for Edutopia titled “ 6 Essential Student Mindsets to Work On This Year .” Editor’s note: This summary was written with support from Edutopia’s custom AI tool, which prioritizes information from our archive of educational content.
+
+## Transcript
+
+Narrator : Teachers can design a flawless lesson plan, but if their students are unable to learn the materials, whether through a lack of discipline, an unwillingness to ask for help, or a crisis of academic confidence, then all of that planning will go out the window. To make the most of your instructional time and help your students be more resilient and inquisitive, here are three key mindsets to encourage in your classroom. We know a sense of belonging is essential for learning, but it’s not just your responsibility. It should be cocreated between you and your students. In fact, when students take an active role in developing the classroom culture, their sense of community and belonging can soar. Instead of simply announcing class rules, ideate and document them with your students’ help, then refer back to those mutual agreements when they get broken. Try also using “we language” to frame the classroom as a team effort, with shared values and objectives. To bolster that camaraderie, it’s important not to play the taskmaster. Think of yourself as a warm demander, mixing high academic and behavioral standards with a healthy dose of kindness and accessibility. It’s natural to want to shield your students from failure, but going easy on your class doesn’t help them grow. Learners of all ages benefit from regularly experiencing frustration and productive struggle. To encourage a tolerance for academic risk, try de-emphasizing grades. A 2021 study showed that withholding grades in favor of written and verbal feedback improved performance on future assignments by as much as two-thirds of a letter grade. It’s also important to avoid creating an atmosphere of shame when students get things wrong. Mistakes should be normalized, and even celebrated. Consider group activities like My Favorite Mistake, where you share student errors, made anonymous, of course. The resulting discussion can provide opportunities for new insights on the content. A certain amount of stress is both acceptable and necessary for students on their way to adulthood, but along with that stress should come tools to manage it. Incorporate tactics like brain breaks, deep breathing, or meditation throughout the school day. Consider working with students to learn to measure the size of a problem and react proportionally. Asking themselves questions like, what is the source of my frustration, and what can or can’t I control, will help them gain perspective on an issue. Moving the needle on student mindsets might seem daunting, but when you start putting these practices to use, you’ll find yourself teaching to a classroom of students in the right headspace to learn.

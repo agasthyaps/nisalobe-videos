@@ -1,0 +1,31 @@
+---
+title: "How to Build a Healthy Math Identity"
+date: 2026-01-22
+source: https://www.edutopia.org/video/how-to-build-a-healthy-math-identity
+youtube: https://www.youtube.com/watch?v=dOcsSDYE0UE
+---
+
+# How to Build a Healthy Math Identity
+
+> When students begin to see themselves as math thinkers, they engage actively, explore creatively, and feel more motivated.
+
+**Source:** [https://www.edutopia.org/video/how-to-build-a-healthy-math-identity](https://www.edutopia.org/video/how-to-build-a-healthy-math-identity)
+**YouTube:** [https://www.youtube.com/watch?v=dOcsSDYE0UE](https://www.youtube.com/watch?v=dOcsSDYE0UE)
+
+## Article
+
+Math is often thought of as the school subject most divorced from student emotions. But as educator Liesl McConchie has found over 25 years of teaching and studying how the brain learns, a student’s ability to learn math is deeply influenced by their emotional relationship to it. Does math conjure up feelings of dread, frustration, and anxiety?
+
+Or does walking into the math classroom trigger feelings like curiosity, excitement, and confidence? Liesl calls this relationship a learner’s “math identity.” And fortunately, there are a number of strategies teachers can use to build healthy versions of those math identities—and improve students’ cognitive relationship with math. By asking the class to draw their conception of a world ruled by math, a teacher is able to see how each student perceives the subject.
+
+Is their version of “Mathland” a wondrous world enabled by math symbols, or a dungeon where robots force children to memorize equations? The nature of the drawings provides insight into the feelings about math that each student is bringing to the classroom. The cultural perception of math also plays an important role.
+
+Often students are exposed to stereotypical representations of math whizzes as characters who are socially awkward and physically unattractive. Educators can break these stereotypes with examples of real-world figures, like Nohemi Sepulveda , who utilize math to accomplish amazing things. A student’s internal voice can be the negative influence that’s most difficult to shake.
+
+Teachers can ask the class to imagine a physical representation of that negative voice as a “math gremlin” that sits on their shoulder whispering discouraging thoughts. After externalizing the source of that negativity, students can crumple up their math gremlin and throw it in the trash, freeing up their internal voice to reflect a more positive, constructive narrative. To learn more about the research cited in the video, check out the resources below.
+
+Stanislaw Schukajlow, Katrin Rakoczy, and Reinhard Pekrun’s survey paper on the research surrounding students’ emotions and motivation in mathematics (2023) Debbie Epstein, Heather Mendick, and Marie-Pierre Moreau’s analysis of how young people interpret popular representations of mathematics in culture (2010) Sirui Wan, Fani Lauermann, Drew H. Bailey, and Jacquelynne S. Eccles’s meta-analysis on how students perceive themselves as either a “math person” or a “language person” (2021) To find more research-based ideas for how to build student confidence and a healthy math identity in the classroom, read Liesl McConchie’s article for Edutopia, “ 4 Activities to Foster a Positive Math Identity ,” or check out her book Building a Positive Math Identity: A Brain-Science Approach .
+
+## Transcript
+
+Liesl McConchie: After 25 years of studying the human brain and how it learns, there’s one thing I’m confident of—a student’s emotional relationship with math is foundational to their cognitive relationship with math. A healthy math identity is when a person is able to see themselves in relationship with math in a positive light. One of my favorite activities that teachers can use is a quick art activity where students draw this fictitious place called Mathland, where everything is ruled by math, and it’s fascinating what it reveals about their relationship with mathematics. Some students draw Mathland as this beautiful place filled with flowers and this perfect symmetry and these numbers floating around on clouds. Other people will draw Mathland as this torture chamber where these mathematical robots are dragging them to this institution where they will be forced to learn math. So this activity can be used by teachers to get a quick glimpse as to who already has a relationship with math that’s going to support their learning and whose path is a little bit more bumpy. A critical aspect of developing a positive math identity is being able to see yourself thriving in mathematical spaces. The media has traditionally portrayed mathematics as something that is hard and distant from the real world, and people who are good at math as being really nerdy. And so it’s essential that we take a proactive approach and counteract those messages. Every single student needs to be able to see other people out there in the world like Nohemí Sepulveda, who is combining her passion and understanding of mathematics with her love of fashion as she works with NASA to design the next generation of spacesuits doing amazing things with math that they can look at and say, “Hey, they’re just like me.” When a student walks into your classroom feeling fearful, bored, or disinterested, these feelings can show up in a lot of different ways. Sometimes it sounds like a little voice inside of their head saying, “You’ll never be smart at math. You’re just not a math person.” And because it comes from inside of our brain, it can feel like it’s part of our identity. An effective strategy is to externalize that voice through another fun art activity called Math Gremlins, where students draw this little monster or gremlin that is on their shoulder whispering all these unhelpful negative messages around mathematics. It empowers students to know that they can crumple up this piece of artwork, throw it in the trash, and get rid of those voices, and replace those with more positive, helpful messages to help them be successful with math. By spending a few minutes supporting our students’ emotional relationship with math, we are giving our students an enormous advantage in their cognitive relationship with math.

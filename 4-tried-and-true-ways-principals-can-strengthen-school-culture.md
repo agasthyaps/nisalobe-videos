@@ -1,0 +1,31 @@
+---
+title: "4 Tried-and-True Ways Principals Can Strengthen School Culture"
+date: 2025-09-17
+source: https://www.edutopia.org/video/4-tried-and-true-ways-principals-can-strengthen-school-culture
+youtube: https://www.youtube.com/watch?v=gtjIur_2Xcs
+---
+
+# 4 Tried-and-True Ways Principals Can Strengthen School Culture
+
+> The most effective principals implement simple, consistent leadership practices to help their school community thrive.
+
+**Source:** [https://www.edutopia.org/video/4-tried-and-true-ways-principals-can-strengthen-school-culture](https://www.edutopia.org/video/4-tried-and-true-ways-principals-can-strengthen-school-culture)
+**YouTube:** [https://www.youtube.com/watch?v=gtjIur_2Xcs](https://www.youtube.com/watch?v=gtjIur_2Xcs)
+
+## Article
+
+The daily habits and systems of school leaders have a profound influence on the experience of everyone within a learning community. From students and staff to families and visitors, the culture of a school is often shaped by the intentions and practices of its principal. There are a variety of approaches that seasoned school leaders use to cultivate a stronger, more connected environment—and any principal can apply them.
+
+Alexa Sorden, a founding principal at a successful elementary school in the Bronx, knows that principals who are regularly seen and present in classrooms, hallways, and shared spaces often build greater trust and credibility with students and staff. Time spent at recess, in passing periods, or alongside teachers during lessons can foster relationships and reinforce a sense of unity and shared purpose across the school. Creating simple, accessible systems for emotional and mental support also has the potential to dramatically improve the school environment.
+
+Mathew Portell, former principal at Fall-Hamilton Elementary in Nashville, Tennessee, implemented quick check-ins for students with trusted adults and developed tap-in and tap-out protocols that allow teachers to step away for a brief moment when they need it most. These practices can help everyone in the school community feel seen, supported, and safe. Former principal of Pearl-Cohn Entertainment Magnet High School Sonia Stewart believes that when classroom expectations and language are consistent across grades and subjects, students often feel a greater sense of predictability and belonging.
+
+School leaders who collaborate with their teams to establish common goals and practices often find that both students and staff experience a stronger sense of cohesion and alignment. Schools where leadership is shared tend to foster greater ownership and investment. Dan St.
+
+Louis, who served as principal at University Park Campus School in Worcester, Massachusetts, for 10 years, set up staff meetings that encouraged open dialogue and decision-making, as well as student-led conferences and initiatives, to promote a collaborative, team-based culture. Through intentional choices that emphasize visibility, support, consistency, and collaboration, principals can help shape a school culture where connection and growth are at the center. To learn more about the research cited in the video, check out the resources below.
+
+Matti Taajamo, Aini-Kristiina Jäppinen, and Kari Nissinen’s study examining essential elements of school culture as interpreted through principals’ voices (2023) Rebecca L. Wolfe and Elizabeth D. Steiner’s research report on how K–12 principals can support student success and well-being (2023) Jason Grissom, Anna Egalite, and Constance Lindsay’s review of the research literature on how principals affect students and schools (2021)
+
+## Transcript
+
+Narrator: School leaders have an outsized impact on student achievement and teacher retention. From staff and students to families and visitors, the habits, systems, and daily interactions of principals are central to the overall experience and success of everyone in a learning community. Here are four ways principals can intentionally cultivate a stronger school culture. One way to build credibility within your school community is simply by being present in and around the classrooms in common areas throughout the day. While calls and paperwork are important, it’s well worth it to create space to be out of the office and integrated in school activities. Spend time with students at recess, strike up conversation during a passing period, and make a point to work with and alongside teachers. By doing this, you prioritize relationships and establish a cohesive atmosphere of teamwork, support, and presence. Finding ways to routinely provide social and emotional support for both educators and students can be simpler than it seems, and it can dramatically boost a school environment. Set up systems where students who need extra support have a quick check-in with a designated adult at the start and end of each day. You can also put a plan in place so teachers can get a quick reprieve by messaging a colleague to cover their class for a moment when they need to de-escalate or recharge. Having these protocols at the ready can help staff and students feel seen, known, and safe. Intentional consistency from class to class and grade to grade creates a feeling of predictability and safety that allows students to thrive. With input from your staff, develop a common set of expectations, goals, and practices for each teacher to use in their classroom, no matter the subject or grade. These shared approaches can act as a guideline for a culture that expands beyond the classroom boundaries, strengthening unity among staff as well as students. Rather than leaning into a top-down leadership structure, giving faculty and students ownership and buy-in on decision-making can be an impactful way to build a strong team culture across the whole building. Hold regular staff meetings where the floor is open for anyone to weigh in on solving problems at hand or making relevant plans of action. You can also empower students in your school by encouraging them to lead their own meetings with teachers and parents. This helps them develop agency in their educational experience. Through purposeful practices and schoolwide methods that foster cohesion, balance, and connection, you can develop a positive atmosphere where educators and students alike can grow and flourish.

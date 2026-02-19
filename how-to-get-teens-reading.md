@@ -1,0 +1,29 @@
+---
+title: "How to Get Teens Engaged as Readers"
+date: 2024-12-13
+source: https://www.edutopia.org/video/how-to-get-teens-reading
+youtube: https://www.youtube.com/watch?v=qZz0EYsk4TA
+---
+
+# How to Get Teens Engaged as Readers
+
+> It can be tough to get a whole class on the same page with novels, but with a few intentional practices, teachers can get teens reading.
+
+**Source:** [https://www.edutopia.org/video/how-to-get-teens-reading](https://www.edutopia.org/video/how-to-get-teens-reading)
+**YouTube:** [https://www.youtube.com/watch?v=qZz0EYsk4TA](https://www.youtube.com/watch?v=qZz0EYsk4TA)
+
+## Article
+
+Reading books as a class in middle and high school can prove to be tricky, as students’ reading levels and engagement with material can vary widely. There are many valid reasons why a student may fall behind or not be able to read full chapters at home. But by creating a classroom culture that does not penalize or shame students for this, teachers can build a foundation to get teens reading in a more equitable way—and to take more delight in it.
+
+One critical strategy to even the playing field is to make time for reading during class. Teachers can facilitate this through choral reading, teacher or student read-alouds, or audiobooks. Alternatively, students can be divided into groups based on their progress, allowing one group to catch up on chapters they haven’t tackled yet while the other discusses themes.
+
+When it’s time to review, another way to engage young readers is to allow them to take center stage by leading chapter recaps—either by sharing their take verbally or by using creative mediums like drawing or Google Slides with images, GIFs, emojis, or text messages. This allows teens to take ownership of the story they are reading and hear their classmates’ interpretations of the same texts—offering fresh and engaging perspectives. While reading a whole-class novel has its benefits, allowing students to choose their reading material can increase engagement by aligning with their interests and reading levels.
+
+Teachers can offer three or four books of varying reading levels that share a common theme, letting students select the one they are most comfortable with. Grouping students into literature circles based on their chosen book encourages discussion and collaboration, making the content more relatable and intriguing. Building a literary culture in your class that allows for content to be accessible—and discussions to be student-led—can be the key to successfully getting teens to read.
+
+For more great ideas about how to get teens engaged as readers, check out the Edutopia community’s responses to the question, “ What’s your solution to get students reading whole-class novels? ” (And there are nearly 400 responses to the same question on Facebook .) Ileana Sherry’s 2022 article for Edutopia, “ 5 Tips for Teaching Novels When Students Won’t Read ,” also offers lots of helpful ideas. For more about the benefits of book choice, watch the video “ Motivating Students With Book Choice .” ​​ Editor’s note: This summary was written with support from Edutopia’s custom AI tool, which prioritizes information from our archive of educational content.
+
+## Transcript
+
+Narrator: It can be difficult to get an entire class on the same page when reading a novel together, especially when students’ reading levels, at-home environments, and general engagement with content can vary widely. But long-form reading as a class can be equitable and enjoyable when teachers are able to build a rich literary culture that is accessible and student-led. Sometimes teens have valid reasons for not being able to read outside of class, like caring for younger siblings, after-school jobs, or extracurriculars. Begin by creating an environment that does not penalize or shame students for not reading at home; instead, provide the time and environment for reading in class. You can read each chapter together through choral reading, teacher read-alouds, or audiobooks. You can divide readers into groups based on whether they’ve completed the day’s assigned content. One group spends class time catching up, while the other can discuss themes in pairs or small groups. Reading time in class gives everyone the chance to keep up. Routinely giving readers the stage to retell, paraphrase, or represent stories in simple and engaging ways allows students to take ownership of their understanding of the book and keep storylines fresh in classmates’ minds. Start each class by choosing a student at random to give a whole story retell from the beginning, encouraging each student to be ready to give their review. Or you can have each reader present a chapter recap through a fun and creative medium like drawings or Google Slides with GIFs. Student-led recaps allow for classmates to see the story through peers’ eyes, which can drive interest and engagement with the novel as a whole. While there’s much value in having everyone read the same thing, giving readers a say in the book they read can allow for students to engage with literature at a level that suits them, while choosing content that relates to their interests. If you’d like to keep some structure, collect copies of three to four novels of various levels that address a similar theme. Have students choose the one they feel most comfortable with, then group readers into lit circles based on each title to read, discuss themes, and prepare presentations together. Providing options for readers can spark new interest in literature as students work with peers to engage with content that is on-level and intriguing to them. When it comes to reading books as a class, every group of students is unique, but by allowing the space and time for content to be accessible and for reflection to be student-led, you can create a reading culture where all students can feel comfortable and engaged.

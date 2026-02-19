@@ -1,0 +1,33 @@
+---
+title: "Jump-Starting Academic Learning With Movement and Dance"
+date: 2023-11-30
+source: https://www.edutopia.org/video/movement-dance-jumpstarts-academic-learning
+youtube: https://www.youtube.com/watch?v=9fGTKjR1_Ks
+---
+
+# Jump-Starting Academic Learning With Movement and Dance
+
+> The benefits of movement in the classroom aren’t limited to younger students. Pairing new words and concepts with gestures or dance moves locks in understanding—and active brain breaks prime students to learn even more.
+
+**Source:** [https://www.edutopia.org/video/movement-dance-jumpstarts-academic-learning](https://www.edutopia.org/video/movement-dance-jumpstarts-academic-learning)
+**YouTube:** [https://www.youtube.com/watch?v=9fGTKjR1_Ks](https://www.youtube.com/watch?v=9fGTKjR1_Ks)
+
+## Article
+
+French teacher Nicole Goepper is famous—for dancing with her students in the school courtyard. But even inside the walls of her northern Virginia classroom at Fauquier High School, kids are on their feet. “I truly believe that there is something in our brains that connect words with movement,” says Goepper, who references research showing how movement cements recall and boosts mood, helping to improve the well-being of students.
+
+Goepper saw this firsthand when she faced postpandemic declines in student mental health. Goepper incorporates movement every chance she gets—from pairing new vocabulary with gestures, to acting out French accent marks, to the pièce de résistance: going outside to dance. “Usually we dance in the middle of class.
+
+I use it as a reward for something we’ve done in class [kids get to pick which French pop songs they want to dance to], and I almost use it as a transition.” The benefits? “It’s a brain break; it gets them moving, gets their hearts pumping, and that blood is going up into their brain. And it’s like a primer, getting them ready to go [back inside to] learn more stuff.” But it’s also a cultural connection, “which is a huge piece of learning and understanding of world language.
+
+When I introduce any new song to them, there’s always, you know, who is singing it? Who is this person? A little backstory of the artist.
+
+And then just the general meaning of what’s behind the song.” Students learn about the song’s relevance to French and French diaspora culture. Finally, although it’s a well-established fact that movement benefits younger students, Goepper believes it’s just as beneficial for high school students. “There are kids who in the beginning don’t want to put themselves out there,” admits Goepper.
+
+“But then they realize that it’s fun, and they feel left out if they’re not joining in with us. I win over 99 percent of them.” For more ideas on incorporating movement into learning, read Sarah Gonser and Stephen Merrill’s article for Edutopia, “ More Than a Dozen Ways to Build Movement Into Learning .” To dig deeper into the research around movement and learning, check out the resources below. Christian Andrä, Brian Mathias, Anika Schwager, Manuela Macedonia, and Katharina von Kriegstein’s research on how learning foreign language vocabulary with gestures and pictures enhances memory for school children (2020) Lawrence Shapiro and Steven Stolz’s comprehensive review of studies on embodied cognition (2019) Panagiotis Kosmas, Andri Ioannou, and Panayiotis Zaphiris’s research on embodied learning and its effects on children’s memory and language skills (2019) Spyridoula Vazou, Panagiota Gavrilou, Evangelia Mamalaki, Anna Papanastasiou, and Nefeli Sioumala’s study on the integration of physical activity and its influence on academic motivation (2012) Christopher R.
+
+Madan and Anthony Singhal’s article about using actions to enhance memory (2012)
+
+## Transcript
+
+Nicole Goepper : There are a ton of great reasons why we dance in class. It’s a cultural connection, which is a huge piece of learning a world language. Nicole Goepper : It also is a brain break. It gets their hearts pumping, and that blood is going up into their brain, and it’s like a primer getting them ready to go learn more complex concepts. My mission as a teacher is to make sure kids truly want to come into class because they’re excited to learn and never know what’s coming next and just can’t wait to get back there the next day. Aubrey : Our French class is way different than other classes because you get to be up and moving. The first class, when I walked in and we started dancing, I was like, oh my gosh, this is real. She’s actually crazy. Nicole Goepper : In my French 2 class, we’ve been working on making sure they’re comfortable with greetings. I truly believe there is something in our brains that connect words with movement and that if a kid has learned that this is “ très bien ” and one day they walk in and they’re drawing a blank, I just have to do a little gesture and the word comes to them. Aubrey : I have trouble memorizing words just by talking. So if you hear a word and you do the movement with it, you’re more likely to remember what it is. Nicole Goepper : “ Excusez-moi .” Mason : “ Je m’appelle Arzen .” So for the accents, she would ask us to spell our names, and if our names have an accent in them, she would write it up on the board. Nicole Goepper : C’est un accent grave . Mason : And then she would point at an accent on the board and have us do a hand motion that’s associated with each accent. Nicole Goepper : The names for the accents in French are really weird words, and it’s been really hard to get them to remember them. So we literally act out the accent. And the more silly we can get with it, the more they seem to remember it. Nicole Goepper : Next, we reviewed words for body parts. I started having them do head, shoulders, knees, and toes, and then we took them outside. Nicole Goepper : That’s kind of a warm-up to the next song that we did. Aubrey : “Petit Jean” is really great because they’re repeating all the body parts so many times. It just gets faster and faster. Mason : When you first start, it can feel a little silly, but as you get more and more used to it and everyone’s doing it, it feels a lot more natural. Mason : Each relate to a part of French culture. Nicole Goepper : We make a lot of connections with words that are in the songs. They all know how to say sauté because you’re jumping in the song. Aubrey : It gets energy in me, and it’s just really fun to see everyone come together and dance. Nicole Goepper : When kids are younger, teachers see that they need to be moving, but as the kids get older, we’re expecting them to just sit. Kids want to get up and interact and talk to each other and move because the school day is a long day to just be sitting.

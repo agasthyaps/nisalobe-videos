@@ -1,0 +1,19 @@
+---
+title: "Classroom Exercise Makes Learning Lively"
+date: 2008-06-03
+source: https://www.edutopia.org/video/classroom-exercise-makes-learning-lively
+---
+
+# Classroom Exercise Makes Learning Lively
+
+> Four techniques for mental clarity from fitness expert Joel Kirsch.
+
+**Source:** [https://www.edutopia.org/video/classroom-exercise-makes-learning-lively](https://www.edutopia.org/video/classroom-exercise-makes-learning-lively)
+
+## Article
+
+Read a blog post about Kirsch’s latest endeavor here .
+
+## Transcript
+
+Classroom Exercise Makes Learning Lively (Transcript) These techniques are wonderful for raising the students’ energy level, for relaxing them. They can be done with the entire class at the beginning of class which is the best time to do it or if kids are losing focus or they’re tired, you can, if you give the kids permission, they can go off to the side of the room, take a few minutes to do any one or a series of these techniques to get refocused and re-energized and then go back to their work. You take what’s called the athletic ready stance, where your feet are comfortably apart, little wider than shoulders width, the knees are slightly bent and the back is straight. And this technique, you simply rotated the hips with the arms flopping out from the body, your head turns with your shoulders. You don’t force it though. But the hips lead. It isn’t the arms leading first and then the body following. The hips lead first and then the arms follow after that. You allow your head to turn. Keep the knees bent. And if you keep this up for– and it’s easy to do, don’t force, two, three minutes, you really feel good afterwards. You feel relaxed and you feel energized. This technique works all the muscles in the body and neurologically, it programs the kids to be ready to learn and then you just allow the motion to come to a gradual halt. So the idea is, put the hands together over the head, come up on one leg, bend the knee and you focus on your belly, actually a spot in the middle of your abdominal cavity, between your belly and back and left hip and right hip. It’s just to get balanced and focused. Come down after doing that for about 30 seconds. Shake it out with your feet. Go back up on the other leg. Try not to look at anyone or anything. Be in what we call soft eyes, where everything comes into your field of vision. You don’t look out on the world. Okay, you come down and again shake that out. The palms pushed together here in a nice symmetric fashion and the knees are slightly bent. The back stays straight. Push the palms together and inhale through the nose as you go up. Once at the top, turn the palms out, exhale through the mouth [breathing], arms extended but uh.. not uh.. tense. And once they’re parallel, bend the knees again, come together, inhale [breathing], exhale [breathing]. And if doing this in a class setting, you want everybody in sync doing it together. One more [breathing], the blades of the hand are going forward, the thumbs are going back. Not the palms forward like you’re waiving goodbye. Blades go forward, thumbs go back, biceps, triceps, trapezious, nice and relaxed. So you’re generating energy, shaking the hands good but staying relaxed. And so you do this wrist shake and a great thing to do with the kids in class is, you do this for about ten seconds and then you call off a student’s name say, Barbara. And then Barbara waits about ten seconds after you call her name. And she says down. And the whole class then goes [claps] once, twice, and then come back up. Do it again. And you do this with two other students and finally, after the third student has done this, the technique is done. So we’ll just replicate that again and assume we’re calling on the third student, say Juan. And we wait about ten seconds and then Juan will say, down [claps]. And those are the techniques.

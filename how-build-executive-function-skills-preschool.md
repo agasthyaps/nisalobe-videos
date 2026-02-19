@@ -1,0 +1,19 @@
+---
+title: "How to Build Executive Function Skills in Preschool"
+date: 2021-10-19
+source: https://www.edutopia.org/video/how-build-executive-function-skills-preschool
+---
+
+# How to Build Executive Function Skills in Preschool
+
+> From imaginative play to storytelling, certain activities help build self-regulation, memory, and planning skills—setting the littlest learners on a pathway to academic success.
+
+**Source:** [https://www.edutopia.org/video/how-build-executive-function-skills-preschool](https://www.edutopia.org/video/how-build-executive-function-skills-preschool)
+
+## Article
+
+For more ideas, information on the links cited in the video, and activities that build executive function, check out the links below: 2014 Activities Guide: Enhancing and Practicing Executive Function Skills With Children from Infancy to Adolescence , from the Center on the Developing Child at Harvard University 2019 paper on the science of learning and development , by Linda Darling-Hammond et al. 2021 Edutopia article on executive function and kindergarten readiness , by Jackie Peng 2014 article about the influence of self-talk , by Ethan Kross et al. 2016 study about improving perseverance in young children , by Rachel E. White et al.
+
+## Transcript
+
+We rely on executive function skills our whole lives. We use them to set goals, plan ways to meet them, assess our progress along the way, and adjust our plans when necessary. These skills can be taught. Even our youngest students can learn self-regulation, organization, and reflection. And by focusing on them in the early years, we can put little learners on a path toward positive behavior, healthy choices, and academic success. Children love to hear stories and tell their own. Make the most of this natural impulse to help them sharpen important memory and sequencing skills. Using a sheet of paper labeled First, Next, and Last, ask students to recount their day using simple drawings, stickers, or stamps. Then ask them to share the story with a partner. Telling their story develops working memory by requiring them to hold information mentally and put it in order. Children may need varying levels of support in this activity, but over time, their stories will become more elaborate and intentionally structured. Engaging students in daily reflection about their feelings builds their emotional vocabulary and lays the groundwork they need to regulate their emotions. Invite students to select emojis or pictures from an emotions chart to describe how they felt during different activities. Does a particular student feel happy building with blocks, but frustrated or angry while working on a puzzle? By supporting them in naming their emotions and reflecting on them, you’re building crucial self-regulation skills. Running an imaginary restaurant or doctor’s office is more than just fun for children. During cooperative play they explore roles and set up rules shutting down impulses to do things that don’t fit the part. Encourage this type of play by filling a corner of your classroom with fun props, or give them supplies to make their own. They’ll use planning skills to determine what is needed, and they’ll exercise selective attention to follow through on making them without getting distracted. What looks like kids just having fun is actually developing a number of skills at once. Talking to ourselves as a form of self-management starts when we’re toddlers and continues throughout our lives. When you teach students how to use positive self-talk, especially when facing a new or challenging task, you’re modeling the metacognition that leads to perseverance and self-esteem. So when you try something for the first time or make a mistake, let students know and say things like “I’m still learning how to do this” or “I’m going to keep trying.” By keeping your self-talk positive and kind, you’ll be teaching them how to build confidence and take care of themselves.

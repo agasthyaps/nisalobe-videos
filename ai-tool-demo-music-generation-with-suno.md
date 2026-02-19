@@ -1,0 +1,29 @@
+---
+title: "AI Tool Demo: Making Music With Suno"
+date: 2025-02-27
+source: https://www.edutopia.org/video/ai-tool-demo-music-generation-with-suno
+youtube: https://www.youtube.com/watch?v=f7fW5P9IaBw
+---
+
+# AI Tool Demo: Making Music With Suno
+
+> Assistant editor Daniel Leonard shows how Suno can be used for AI music generation in the classroom—to turn any text into a song.
+
+**Source:** [https://www.edutopia.org/video/ai-tool-demo-music-generation-with-suno](https://www.edutopia.org/video/ai-tool-demo-music-generation-with-suno)
+**YouTube:** [https://www.youtube.com/watch?v=f7fW5P9IaBw](https://www.youtube.com/watch?v=f7fW5P9IaBw)
+
+## Article
+
+Have you ever thought that a class assignment would be more engaging if music were involved? A new AI music-generation tool, Suno , lets users turn their original writing into a fully realized song in under a minute—complete with vocals and an instrumental backing in a genre of their choice—and there are lots of applications for the classroom. Across various subject areas and grades, teachers are using Suno to help their students create catchy songs that can serve as mnemonic devices.
+
+In an elementary math classroom, for example, students can collectively write lyrics that name and briefly describe the various types of triangles. The teacher can then input these lyrics into Suno (the software is intended for users 13 and up) and have the AI rapidly create an entire song—in any genre—that the class can sing together as a way to commit the material to memory. In English language arts, meanwhile, teachers are using Suno as a way to breathe life into writing assignments.
+
+If an exercise involves students writing poetry, for example, students can use Suno to turn their poems into songs at the end of the assignment. Besides making the activity more engaging, this exercise helps students deepen their understanding of mood and tone; prompting Suno to turn somber lyrics into a song in a disco or pop genre is likely to produce an awkward-sounding result, while blues might be a much better fit. In this short demo, Edutopia’s assistant editor Daniel Leonard demonstrates how to access and use Suno to create songs, and offers more detail on some of the teacher-tested use cases for AI music generation in the classroom with the tool.
+
+For other fun and engaging ways that teachers are deploying AI in their lessons—from AI-powered chats with historical figures to tools that bring student artwork to life—read Leonard’s feature for Edutopia, “ 9 Tips for Using AI for Learning (and Fun!) .”
+
+## Transcript
+
+Daniel Leonard: Hi, everyone, my name is Daniel and I’m an assistant editor at Edutopia. And today I wanted to showcase an interesting AI tool that can help teachers and students quickly create their own music. This website is called Suno. It’s for users 13 and up. And if we go to the Create tab here, we can see that there are two main ways to use the tool. The first, this is to simply type in a short prompt, and then Suno will create an entire song from scratch. It’ll generate the lyrics automatically and the music automatically. But what’s probably going to be more useful in most academic contexts is to toggle this up here to custom. That way, you or your students can paste in your own lyrics and Suno can turn them into a song. I’ve heard from teachers who are having their students write lyrics to a song about something that they’re learning in class, like the different kinds of triangles, the different parts of speech in English class, or the steps in the water cycle in science. And then students or the teacher can paste those lyrics into Suno and Suno can turn them into a song, which can be a great mnemonic device. Students can then sing that song together in class, which really helps them commit that information to memory. For a civics-based example of this, I had ChatGPT help me write some lyrics to a song about the three branches of government. So I’ll scroll down and pick a style of music. I want something that’s upbeat and will get stuck in my head. So I’ll say upbeat ’70s disco. Let’s see how that sounds. I’ll scroll down and hit Create and let’s see what we get. So about 30 seconds later, Suno gives us these two different variations on the song. It’ll always give you two options and enough free credits to make 10 different variations per day. So let’s see what it sounds like. MUSIC: The legislative makes the laws. Congress writes them for a call. Senate House, they both decide rules by which we all abide.
+
+Daniel Leonard: All right, I think you get the idea. Obviously there are tons of fun applications for a tool like this. My dad actually has his eighth-grade students write a poem from the perspective of a Shakespeare character and then have Suno turn it into a song. And he says that students who might otherwise be hesitant to do an activity like this really find it engaging, knowing that by the end of it they’ll have a song that they created that they can play for their friends. Additionally, an activity like this can help students deepen their understanding of mood and tone. If a student writes a poem from the perspective of Romeo and has Suno create a song in a ’70s disco style, they might listen to that and realize that’s not really fitting the right tone for that poem, and then they can go back and reprompt it. Maybe have Suno create it in a gloomy jazz style instead. Besides reprompting, you can also adjust the songs that Suno creates. If you go here under Edit, you can crop out pieces of the song or have Suno regenerate certain segments of the song if you didn’t really like what it did the first time. So yeah, that’s just a quick crash course into this tool. Hopefully it’s helpful, and if you happen to use this tool or others like it in class, definitely let us know in the comments. We’d love to hear from you. Thanks so much for listening. Bye.
